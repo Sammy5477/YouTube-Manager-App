@@ -1,0 +1,1 @@
+The YouTube Manager App is a simple Python-based application that helps users manage a list of YouTube videos. It allows you to add, update, list, and delete video entries, including details like video name and duration. The app stores data in a local file and provides an interactive command-line interface for easy video management.
